@@ -1,7 +1,6 @@
 {
   "name": "dummysite",
   "version": "0.1.0",
-  "homepage":"https://ashishrautela612.github.io/fakeshop",
   "private": true,
   "dependencies": {
     "@apideck/node": "^3.3.0",
